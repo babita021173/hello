@@ -1,0 +1,16 @@
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+
+  
+<tiles-definitions>  
+<definition name="showWelcomepage" template="/WEB-INF/jsp/welcome.jsp"></definition>
+<definition name="showEmpformpage" template="/WEB-INF/jsp/Reg/empRegistration.jsp"></definition>  
+<definition name="showEmpregSucces" template="/WEB-INF/jsp/empRegSuccessful.jsp"></definition>  
+<definition name="viewemppage" template="/WEB-INF/jsp/empdisplay.jsp"></definition>
+<definition name="vieweditpage" template="/WEB-INF/jsp/empEdit.jsp"></definition>
+<definition name="empupdatepage" template="/WEB-INF/jsp/empUpdateSuccessful.jsp"></definition>
+<definition name="viewAjaxPage" template="/WEB-INF/jsp/Ajax.jsp"></definition>
+<definition name="viewAjaxPage1" template="/WEB-INF/jsp/Ajax.jsp"></definition>
+<definition name="showEmpformpage1" template="/WEB-INF/jsp/SubmitFormAjax.jsp"></definition>
+</tiles-definitions>

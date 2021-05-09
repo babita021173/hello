@@ -1,0 +1,63 @@
+@media (max-width:1366px){
+.fir_searchproceedind{width:48%; margin:0 1%;}	
+}
+
+@media (max-width:1279px){
+.up_login_detail ul li{width:initial; padding:10px 30px;}
+.up_login_detail ul li:last-child{float:right; text-align:right;}
+.nav-tabs > li{font-size:14px; padding:0 6px;}
+.panel-heading, .Tab_deTails label{font-size:16px;}
+.relaname{margin-left:0px !important;}
+.admin_middle_cntnt{margin:20px 25px 75px 25px; min-height:initial;}
+.w3-table-all td, .w3-table-all th{font-size:14px;}
+}
+
+@media (max-width:991px){
+.up_login_detail ul li{padding:10px 15px; font-size:14px;}
+.nav-tabs > li::before, .nav-tabs > li::after{display:none;}
+.nav-tabs{padding-left:0px;}
+.nav-tabs > li{font-size:13px; padding:0px; margin:0px 1px 0 0;}
+.Tab_araLeft{width:100%;}
+.Tab_araRight{position: absolute; top: 40px; right: 60px;}
+.relaname{width:100% !important; margin-top:5px;}
+.form-inline{margin-bottom:0px;}
+.form-inline .form-group{margin-bottom:10px;}
+.up_login_detail ul li .fa-home{padding-right:10px;}
+.w3-table-all td, .w3-table-all th{font-size:14px;}
+.w3-table-all td:nth-child(3), .w3-table-all th:nth-child(3), .w3-table-all td:nth-child(4), .w3-table-all th:nth-child(4){display:none;}
+.form-horizontal .text-center img{width:30%;}
+#form > div{margin-bottom:15px;}
+}
+@media (max-width:767px){
+.nav-tabs > li{font-size: 15px; width: 20%; text-align: center; border-right: 1px solid #fff; margin:0px;}
+.nav-tabs > li:last-child{border-right:none;}
+.radio label{padding:0 30px 0 0;}
+.cct_home_footer p{font-size:14px;}
+.admin_middle_cntnt{margin: 20px 0px 95px 0px;}
+.up_login_detail ul li:nth-child(3){display:none;}
+.bar1, .bar2, .bar3{width:16px;}
+#wrapper.toggled{padding-left:0px;}
+#wrapper.toggled #sidebar-wrapper{width:100%;}
+.sidebar-nav{width:100%;}
+.panel-body{padding:10px;}
+.content_area{margin-top:0px;}
+#loginbox{margin:10px 0 30px 0;}
+}
+@media (max-width:639px){
+.nav-tabs > li{width:100%; border-right:none; border-bottom:1px solid #fff;}
+.Tab_araRight{top:170px;}
+.Tab_deTails label{width:100%;}
+.radio label{padding:0 25px 0 0;}
+.TopFields{top:22px; right:15px;}
+.searchField .fa{color:#fff;}
+.cct_home_footer p{font-size:13px;}
+}
+@media (max-width:479px){
+.up_login_detail ul li{padding: 10px 5px; font-size: 12px;}
+.profilePhoto img{width:80px; height:80px;}
+.Tab_araRight{right:40px;}
+.admin_middle_cntnt{margin-bottom:120px;}
+.TopFields{display:none;}
+.up_login_detail ul li{display:none;}
+.up_login_detail ul li:last-child{display:block;}
+.Tab_araRight{top}
